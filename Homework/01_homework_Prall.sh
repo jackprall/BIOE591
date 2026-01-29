@@ -11,3 +11,5 @@ mv *.csv metadata/
 ls -1 fastq/ | wc -l
 ls -1 fasta/ | wc -l
 ls -1 metadata/ | wc -l
+
+echo "DONE!"
