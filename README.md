@@ -18,3 +18,5 @@ Within the homework folder, there is a directory for each homework/lab assignmen
 - Homework 5 is a folder. It contains the sbatch file that I used to align the reads and a markdown file where I summarize the reads.
 
 - Homework 6 is a folder. It contains the sbatch file that I used to find and quantify variants and a text file that details the summary of that analysis.
+
+- Homework 7 is a folder. It contains the sbatch file that I used to filter and produce pi-values for a multi-sample vcf file. It also contains a markdown file, where I detail my filtering choices and report and interpret the average pi values for this analysis.
