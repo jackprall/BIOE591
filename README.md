@@ -16,3 +16,5 @@ Within the homework folder, there is a directory for each homework/lab assignmen
 - Homework 4 is a folder. It contains an example html file for the reads, the sbatch file I used in Tempest, and a markdown file where I responded to the homework questions.
 
 - Homework 5 is a folder. It contains the sbatch file that I used to align the reads and a markdown file where I summarize the reads.
+
+- Homework 6 is a folder. It contains the sbatch file that I used to find and quantify variants and a text file that details the summary of that analysis.
